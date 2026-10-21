@@ -1,6 +1,7 @@
-#A python project developed for my Queen Mary Formula Student Senior software team application#
+# Ideal Braking Curve
+A python project developed for my Queen Mary Formula Student Senior software team application
 
-##About the project##
+## About the project
 
 This program plots an ideal braking curve to explore how braking force is distributes between the 
 front and rear axles, accounting for longitudinal weight transfer and friction between the tires and
@@ -16,12 +17,12 @@ I wrote the program from scratch while developing my skills in python using NumP
 - ideal-braking-curve-Document - the report with theory, assumptions and references
 - ideal-braking-curve.png - the graph generated from the code
 
-##Tools##
+## Tools
 - python
 - NumPy
 - Matplotlib
 
-##How to run##
+## How to run
 (1) Install python online by searching up "python install", clicking the top link and following 
 instructions according to your operating system on the drop down menu.
 
@@ -31,12 +32,12 @@ instructions according to your operating system on the drop down menu.
 
 (3) Run the program: ideal-braking-curve.py
 
-##what i learned##
+## what i learned
 - Performing engineering equations into Python
 - using numpy for numerical calculations
 - plotting and formatting graphs with Matplotlib
 - organising, commenting and testing my code in increments
 - Doucmenting engineering decisions and modelling assumptions as according to my task
 
-##Results##
+## Results
 To find results, open the document pdf and view there.
