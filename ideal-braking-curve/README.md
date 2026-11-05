@@ -12,7 +12,7 @@ as shown in the report.
 
 I wrote the program from scratch while developing my skills in python using NumPy and Matplotlib.
 
-##Files##
+## Files
 - ideal-braking-curve.py - python source code
 - ideal-braking-curve-Document - the report with theory, assumptions and references
 - ideal-braking-curve.png - the graph generated from the code
